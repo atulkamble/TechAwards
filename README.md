@@ -19,7 +19,7 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 --------
 ## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
 ## [Oracle ACE Program](https://developer.oracle.com/in/ace)
-## [Docker Captain](https://www.docker.com/community/captains)
+## [Docker Captain Program](https://www.docker.com/community/captains)
 --------
 ## [CNCF Ambassadors](https://www.cncf.io/people/ambassadors/)
 --------
