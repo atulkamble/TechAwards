@@ -22,7 +22,6 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 ## [Databricks Beacon](https://databricks.com/discover/beacons)
 ## [Kentico Kontent MVP](https://kontent.ai/mvp-program)
 --------
---------
 # For Educators
 ## [AWS Educate Cloud Ambassador Program](https://aws.amazon.com/education/awseducate/cloud-ambassador-program/)
 --------
