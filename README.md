@@ -2,10 +2,7 @@
 Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 
 # For Professionals
-
-## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
-- [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
-## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
+# [AWS Partner Ambassador Program](https://aws.amazon.com/partners/ambassadors)
 ## [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
 - Community Heroes
 - Container Heroes
@@ -14,13 +11,21 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 - IOT Heroes
 - Machine Learning Heroes
 - Serverless Heroes
+## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
+- [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
+## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
+
 ## [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 ## [Docker Captain](https://www.docker.com/community/captains)
 ## [Databricks Beacon](https://databricks.com/discover/beacons)
 ## [Kentico Kontent MVP](https://kontent.ai/mvp-program)
 
-### For Students
 
+# For Educators
+## [AWS Educate Cloud Ambassador Program](https://aws.amazon.com/education/awseducate/cloud-ambassador-program/)
+
+# For Students
+## [AWS Student Ambassador Program](https://aws.amazon.com/education/awseducate/student-ambassador-program/)
 ## [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
 ## [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
 ## [GitHub Campus Expert](https://education.github.com/experts)
