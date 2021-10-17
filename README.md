@@ -4,6 +4,7 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 # For Professionals
 
 ## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
+- [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
 ## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
 ## [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
 - Community Heroes
