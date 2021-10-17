@@ -2,7 +2,8 @@
 Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 
 # For Professionals
-# [AWS Partner Ambassador Program](https://aws.amazon.com/partners/ambassadors)
+## [AWS Partner Ambassador Program](https://aws.amazon.com/partners/ambassadors)
+## [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 ## [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
 - Community Heroes
 - Container Heroes
@@ -11,11 +12,9 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 - IOT Heroes
 - Machine Learning Heroes
 - Serverless Heroes
-## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
-- [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
+# [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
+## [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
 ## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
-
-## [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 ## [Docker Captain](https://www.docker.com/community/captains)
 ## [Databricks Beacon](https://databricks.com/discover/beacons)
 ## [Kentico Kontent MVP](https://kontent.ai/mvp-program)
