@@ -4,8 +4,11 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 # For Professionals
 --------
 ## [AWS Partner Ambassador Program](https://aws.amazon.com/partners/ambassadors)
+- APN Ambassador
 ## [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 ## [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
+- AWS Heroes
+- AWS User Group Leader
 - Community Builder
 - Community Heroes
 - Container Heroes
