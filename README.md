@@ -38,3 +38,13 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 ## [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
 ## [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
 ## [GitHub Campus Expert](https://education.github.com/experts)
+
+
+# Requirements
+- Twitter
+- Linkedin
+- GitHub
+- Blog
+- Youtube
+- Slideshare/SpeakerDeck
+- Personal Website
