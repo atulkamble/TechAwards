@@ -18,6 +18,7 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 - Machine Learning Heroes
 - Serverless Heroes
 --------
+## AWS T&C Subject Matter Expert (SME) Program!
 ## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
 ## [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
 --------
