@@ -20,6 +20,7 @@ Champion, Ambassador, Advocates &amp; MVP Programs List to Achieve
 --------
 ## AWS T&C Subject Matter Expert (SME) Program!
 ## [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
+- [MVP Reconnect](https://mvp.microsoft.com/en-us/Pages/reconnect-whatis#:~:text=MVP%20Reconnect%20is%20the%20official,you%20experienced%20as%20an%20MVP.)
 ## [Azure Heroes](https://www.microsoft.com/skills/azureheroes)
 --------
 ## [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
